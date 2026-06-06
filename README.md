@@ -109,7 +109,7 @@ python resume_analyzer.py
 
 # 👨‍💻 Author
 
-**Eskala Sahitya**
+**Eskala Sahitya**<br>
 **Computer Science Engineering**
 ---
 
